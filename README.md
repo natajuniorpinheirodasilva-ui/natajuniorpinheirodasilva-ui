@@ -1,70 +1,139 @@
-<p align="center">
-  <a href="https://github.com/https%3A%2F%2Fgithub.com%2Fnatajuniorpinheirodasilva-ui%2F">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=I'm%20Nat%C3%A3" alt="I&#39;m Natã" />
+<!-- ===================== HEADER ===================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:E11D48,45:991B1B,100:09090B&text=Nat%C3%A3%20Junior&fontColor=FFFFFF&fontSize=46&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer&descSize=18&descAlignY=55" />
+
+<a href="https://github.com/natajuniorpinheirodasilva-ui">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=E11D48&center=true&vCenter=true&width=600&height=45&lines=Web+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+things+for+the+web.;Always+learning.+Always+improving." alt="Typing SVG" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ===================== ABOUT ===================== -->
+
+> about_me
+
+const nata = {
+    education: "Software Development @ FATEC",
+    focus: ["Front-end", "Back-end", "Web Development"],
+    currentlyBuilding: "Kanban",
+    learning: "Better software architecture",
+    goal: "Turning ideas into useful software"
+};
+
+I'm a Software Development student at FATEC, focused on building modern web applications and improving my skills through real projects.
+
+Currently working mainly with React, Next.js, TypeScript and Node.js, while expanding my knowledge of software architecture, databases and full-stack development.
+
+<br>
+
+<!-- ===================== TECH STACK ===================== -->
+
+> tech_stack
+
+Languages
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=E11D48" />
+</p>
+
+Front-end
+
+<p>
+  <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=nextdotjs&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/React_Native-18181B?style=for-the-badge&logo=react&logoColor=E11D48" />
+</p>
+
+Back-end & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/SQLite-18181B?style=for-the-badge&logo=sqlite&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/Prisma-18181B?style=for-the-badge&logo=prisma&logoColor=E11D48" />
+</p>
+
+Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/VS_Code-18181B?style=for-the-badge&logo=visualstudiocode&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=E11D48" />
+  <img src="https://img.shields.io/badge/Webpack-18181B?style=for-the-badge&logo=webpack&logoColor=E11D48" />
+</p>
+
+<br>
+
+<!-- ===================== STATS ===================== -->
+
+> github_stats
+
+<div align="center">
+
+<img height="175em"
+  src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=natajuniorpinheirodasilva-ui&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E11D48&text_color=C9D1D9&icon_color=E11D48&ring_color=E11D48"
+  alt="Natã's GitHub stats"
+/>
+
+<img height="175em"
+  src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=natajuniorpinheirodasilva-ui&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E11D48&text_color=C9D1D9"
+  alt="Most used languages"
+/>
+
+</div>
+
+<br>
+
+<!-- ===================== CONTRIBUTIONS ===================== -->
+
+> activity
+
+<div align="center">
+
+<img width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=natajuniorpinheirodasilva-ui&bg_color=0D1117&color=C9D1D9&line=E11D48&point=FFFFFF&area=true&area_color=881337&hide_border=true&custom_title=Contribution%20Graph"
+  alt="Contribution graph"
+/>
+
+</div>
+
+<br>
+
+<!-- ===================== CONTACT ===================== -->
+
+> connect
+
+<p>
+  <a href="https://www.linkedin.com/in/nat%C3%A3-junior-ab973427b/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=E11D48" />
+  </a>
+
+  <a href="https://github.com/natajuniorpinheirodasilva-ui">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=E11D48" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Web%20dev" alt="Typing headlines" />
-</p>
+<br>
 
-### 🚀 About Me
+<div align="center">
 
-Coursing FATEC, currently doing some web educational projects and trying to find my first job.
+<sub><code>build • learn • improve • repeat</code></sub>
 
-🔭 &nbsp;I'm currently working on **Kanban**  
-💬 &nbsp;Ask me about **React, Node, Next, TypeScript**  
-😄 &nbsp;Pronouns: **he/his**
+<br><br>
 
-### 🛠️ Tech Stack
+<img src="https://komarev.com/ghpvc/?username=natajuniorpinheirodasilva-ui&style=flat-square&color=E11D48&label=PROFILE+VIEWS" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
-</p>
+</div>
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nat%C3%A3-junior-ab973427b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=https%3A%2F%2Fgithub.com%2Fnatajuniorpinheirodasilva-ui%2F&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=https%3A%2F%2Fgithub.com%2Fnatajuniorpinheirodasilva-ui%2F&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=https%3A%2F%2Fgithub.com%2Fnatajuniorpinheirodasilva-ui%2F&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/https%3A%2F%2Fgithub.com%2Fnatajuniorpinheirodasilva-ui%2F">https://github.com/natajuniorpinheirodasilva-ui/</a></i></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:09090B,55:991B1B,100:E11D48" />
