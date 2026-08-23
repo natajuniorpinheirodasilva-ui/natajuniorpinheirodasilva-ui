@@ -16,7 +16,7 @@
 
 > about_me
 
-const nata = {
+const nataJunior = {
     education: "Software Development @ FATEC",
     focus: ["Front-end", "Back-end", "Web Development"],
     currentlyBuilding: "Kanban",
