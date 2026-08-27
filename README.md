@@ -110,7 +110,7 @@ Tools
     />
   </a>
 
-  <a href="mailto:natajuniorpinheirodasilva@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=natajuniorpinheirodasilva@gmail.com">
     <img
       width="40"
       height="40"
