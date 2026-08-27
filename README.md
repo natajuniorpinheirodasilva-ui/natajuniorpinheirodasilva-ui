@@ -1,4 +1,4 @@
-<!-- ===================== HEADER ===================== -->
+<!-- HEADER -->
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 <br>
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ABOUT -->
 
 > about_me
 
@@ -30,7 +30,7 @@ Currently working mainly with React, Next.js, TypeScript and Node.js, while expa
 
 <br>
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- TECH STACK -->
 
 > tech_stack
 
@@ -75,7 +75,7 @@ Tools
 
 <br>
 
-<!-- ===================== STATS ===================== -->
+<!-- STATS -->
 
 > github_stats
 
@@ -95,22 +95,7 @@ Tools
 
 <br>
 
-<!-- ===================== CONTRIBUTIONS ===================== -->
-
-> activity
-
-<div align="center">
-
-<img width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=natajuniorpinheirodasilva-ui&bg_color=0D1117&color=C9D1D9&line=E11D48&point=FFFFFF&area=true&area_color=881337&hide_border=true&custom_title=Contribution%20Graph"
-  alt="Contribution graph"
-/>
-
-</div>
-
-<br>
-
-<!-- ===================== CONTACT ===================== -->
+<!-- CONTACT -->
 
 > connect
 
