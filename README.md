@@ -23,6 +23,7 @@ I'm a Software Development student at FATEC, focused on building modern web appl
 
 Currently working mainly with React, Next.js, TypeScript and Node.js, while expanding my knowledge of software architecture, databases and full-stack development.
 
+Potfolio: https://portfolio-pi-one-2dyra33666.vercel.app/
 Main Project: https://kanban-mu-woad.vercel.app/
 
 <br>
