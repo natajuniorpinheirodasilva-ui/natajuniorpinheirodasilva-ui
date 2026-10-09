@@ -32,8 +32,6 @@ Main Project: https://kanban-mu-woad.vercel.app/
 
 > tech_stack
 
-Languages
-
 <p>
   <img src="https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=E11D48" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=E11D48" alt="JavaScript" />
@@ -44,6 +42,17 @@ Languages
   <img src="https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=nextdotjs&logoColor=E11D48" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_Native-18181B?style=for-the-badge&logo=react&logoColor=E11D48" alt="React Native" />
   <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=E11D48" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-18181B?style=for-the-badge&logo=fastapi&logoColor=E11D48" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Uvicorn-18181B?style=for-the-badge&logo=python&logoColor=E11D48" alt="Uvicorn" />
+  <img src="https://img.shields.io/badge/Pydantic-18181B?style=for-the-badge&logo=pydantic&logoColor=E11D48" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/PyJWT-18181B?style=for-the-badge&logo=jsonwebtokens&logoColor=E11D48" alt="PyJWT" />
+  <img src="https://img.shields.io/badge/Passlib-18181B?style=for-the-badge&logoColor=E11D48" alt="Passlib" />
+  <img src="https://img.shields.io/badge/bcrypt-18181B?style=for-the-badge&logoColor=E11D48" alt="bcrypt" />
+  <img src="https://img.shields.io/badge/Base_UI-18181B?style=for-the-badge&logo=mui&logoColor=E11D48" alt="Base UI" />
+  <img src="https://img.shields.io/badge/Lucide_React-18181B?style=for-the-badge&logo=lucide&logoColor=E11D48" alt="Lucide React" />
+  <img src="https://img.shields.io/badge/Sonner-18181B?style=for-the-badge&logoColor=E11D48" alt="Sonner" />
+  <img src="https://img.shields.io/badge/js--cookie-18181B?style=for-the-badge&logoColor=E11D48" alt="js-cookie" />
+  <img src="https://img.shields.io/badge/Geist-18181B?style=for-the-badge&logo=vercel&logoColor=E11D48" alt="Geist" />
   <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=E11D48" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=E11D48" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-18181B?style=for-the-badge&logo=sqlite&logoColor=E11D48" alt="SQLite" />
