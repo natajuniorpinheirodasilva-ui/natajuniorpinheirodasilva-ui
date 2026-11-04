@@ -19,9 +19,9 @@
 
 <br>
 
-I'm a Software Development student at FATEC, focused on building modern web applications and improving my skills through real projects.
+I'm a Software Development student at FATEC and a Web developer at UNESP. I'm currently focused on building modern web applications and improving my skills through real projects.
 
-Currently working mainly with React, Next.js, TypeScript, Node.js and Python, while expanding my knowledge of software architecture, databases and full-stack development.
+Currently working mainly with React, Next.js, TypeScript, Node.js, Python and PHP while expanding my knowledge of software architecture, databases and full-stack development.
 
 Potfolio: https://portfolio-pi-one-2dyra33666.vercel.app/
 Main Project: https://kanban-mu-woad.vercel.app/
@@ -36,6 +36,7 @@ Main Project: https://kanban-mu-woad.vercel.app/
   <img src="https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=E11D48" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=E11D48" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=E11D48" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-18181B?style=for-the-badge&logo=php&logoColor=E11D48" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E11D48" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=E11D48" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=E11D48" alt="React" />
