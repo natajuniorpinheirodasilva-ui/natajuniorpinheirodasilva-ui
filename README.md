@@ -23,7 +23,6 @@ I'm a Software Development student at FATEC and a Web developer at UNESP. I'm cu
 
 Currently working mainly with React, Next.js, TypeScript, Node.js, Python and PHP while expanding my knowledge of software architecture, databases and full-stack development.
 
-Potfolio: https://portfolio-pi-one-2dyra33666.vercel.app/
 Main Project: https://kanban-mu-woad.vercel.app/
 
 <br>
