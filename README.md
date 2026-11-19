@@ -4,13 +4,13 @@
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:E11D48,45:991B1B,100:09090B&text=Nat%C3%A3%20Junior&fontColor=FFFFFF&fontSize=46&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer&descSize=18&descAlignY=55"
-    alt="Natã Junior — Full-Stack Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:E11D48,45:991B1B,100:09090B&text=Nat%C3%A3%20Junior&fontColor=FFFFFF&fontSize=46&fontAlignY=35&animation=fadeIn&desc=Web%20Development%20Intern%20%40%20UNESP&descSize=18&descAlignY=55"
+    alt="Natã Junior — Web Development Intern at UNESP"
   />
 
   <a href="https://github.com/natajuniorpinheirodasilva-ui">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=E11D48&center=true&vCenter=true&width=600&height=45&lines=Web+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+things+for+the+web.;Always+learning.+Always+improving."
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=E11D48&center=true&vCenter=true&width=600&height=45&lines=Web+Development+Intern+at+UNESP;React+%7C+Next.js+%7C+TypeScript;Python+%7C+FastAPI;Studying+at+FATEC+Botucatu"
       alt="Typing animation"
     />
   </a>
@@ -19,11 +19,19 @@
 
 <br>
 
-I'm a Software Development student at FATEC and a Web developer at UNESP. I'm currently focused on building modern web applications and improving my skills through real projects.
+I'm a Software Analysis and Development student at FATEC Botucatu and a Web Development Intern at UNESP (IBB), where I build and maintain web pages with HTML and CSS, work with the OJS platform, and have built the TV panel and the rebuilt Nossa História website.
 
-Currently working mainly with React, Next.js, TypeScript, Node.js, Python and PHP while expanding my knowledge of software architecture, databases and full-stack development.
+On my own, I build projects to practice full-stack development with React, Next.js, TypeScript and Python, and I'm currently studying more about databases and software architecture.
 
-Main Project: https://kanban-mu-woad.vercel.app/
+<br>
+
+<!-- PROJECTS -->
+
+> projects
+
+- **[Kanban Workspace](https://github.com/natajuniorpinheirodasilva-ui/Kanban)** ([live](https://kanban-mu-woad.vercel.app/)): task management app with drag and drop, authentication and multiple workspaces. Next.js, TypeScript, PostgreSQL, Prisma.
+- **[Bizly](https://github.com/natajuniorpinheirodasilva-ui/Bizly)**: business management SaaS for service providers. Next.js on the frontend and FastAPI on the backend.
+- **[Seveste](https://github.com/natajuniorpinheirodasilva-ui/Seveste)**: academic clothing donation platform, built in a team of two. I built the frontend (Next.js, TypeScript) and a classmate built the backend in Go.
 
 <br>
 
@@ -35,33 +43,21 @@ Main Project: https://kanban-mu-woad.vercel.app/
   <img src="https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=E11D48" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=E11D48" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=E11D48" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-18181B?style=for-the-badge&logo=php&logoColor=E11D48" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E11D48" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=E11D48" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=E11D48" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=nextdotjs&logoColor=E11D48" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-18181B?style=for-the-badge&logo=react&logoColor=E11D48" alt="React Native" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=E11D48" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-18181B?style=for-the-badge&logo=vite&logoColor=E11D48" alt="Vite" />
   <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=E11D48" alt="Node.js" />
   <img src="https://img.shields.io/badge/FastAPI-18181B?style=for-the-badge&logo=fastapi&logoColor=E11D48" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Uvicorn-18181B?style=for-the-badge&logo=python&logoColor=E11D48" alt="Uvicorn" />
-  <img src="https://img.shields.io/badge/Pydantic-18181B?style=for-the-badge&logo=pydantic&logoColor=E11D48" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/PyJWT-18181B?style=for-the-badge&logo=jsonwebtokens&logoColor=E11D48" alt="PyJWT" />
-  <img src="https://img.shields.io/badge/Passlib-18181B?style=for-the-badge&logoColor=E11D48" alt="Passlib" />
-  <img src="https://img.shields.io/badge/bcrypt-18181B?style=for-the-badge&logoColor=E11D48" alt="bcrypt" />
-  <img src="https://img.shields.io/badge/Base_UI-18181B?style=for-the-badge&logo=mui&logoColor=E11D48" alt="Base UI" />
-  <img src="https://img.shields.io/badge/Lucide_React-18181B?style=for-the-badge&logo=lucide&logoColor=E11D48" alt="Lucide React" />
-  <img src="https://img.shields.io/badge/Sonner-18181B?style=for-the-badge&logoColor=E11D48" alt="Sonner" />
-  <img src="https://img.shields.io/badge/js--cookie-18181B?style=for-the-badge&logoColor=E11D48" alt="js-cookie" />
-  <img src="https://img.shields.io/badge/Geist-18181B?style=for-the-badge&logo=vercel&logoColor=E11D48" alt="Geist" />
   <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=E11D48" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=E11D48" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-18181B?style=for-the-badge&logo=sqlite&logoColor=E11D48" alt="SQLite" />
   <img src="https://img.shields.io/badge/Prisma-18181B?style=for-the-badge&logo=prisma&logoColor=E11D48" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=E11D48" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=E11D48" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=E11D48" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=E11D48" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=E11D48" alt="Figma" />
-  <img src="https://img.shields.io/badge/Webpack-18181B?style=for-the-badge&logo=webpack&logoColor=E11D48" alt="Webpack" />
 </p>
 
 <br>
