@@ -10,7 +10,7 @@
 
   <a href="https://github.com/natajuniorpinheirodasilva-ui">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=E11D48&center=true&vCenter=true&width=600&height=45&lines=Web+Development+Intern+at+UNESP;React+%7C+Next.js+%7C+TypeScript;Python+%7C+FastAPI;Studying+at+FATEC+Botucatu"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=E11D48&center=true&vCenter=true&width=600&height=45&lines=Web+Developer+at+UNESP;React+%7C+Next.js+%7C+TypeScript;Python+%7C+FastAPI;Studying+at+FATEC+Botucatu"
       alt="Typing animation"
     />
   </a>
