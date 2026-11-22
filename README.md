@@ -4,7 +4,7 @@
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:E11D48,45:991B1B,100:09090B&text=Nat%C3%A3%20Junior&fontColor=FFFFFF&fontSize=46&fontAlignY=35&animation=fadeIn&desc=Web%20Development%20Intern%20%40%20UNESP&descSize=18&descAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:E11D48,45:991B1B,100:09090B&text=Nat%C3%A3%20Junior&fontColor=FFFFFF&fontSize=46&fontAlignY=35&animation=fadeIn&desc=Web%20Development%20Intern%20at%20UNESP&descSize=18&descAlignY=55"
     alt="Natã Junior — Web Development Intern at UNESP"
   />
 
