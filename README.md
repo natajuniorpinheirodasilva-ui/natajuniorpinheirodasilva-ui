@@ -31,9 +31,8 @@ On my own, I build projects to practice full-stack development with React, Next.
 
 > projects
 - **[Kanban Workspace](https://github.com/natajuniorpinheirodasilva-ui/Kanban)** ([live](https://kanban-mu-woad.vercel.app/)): task management app with drag and drop, authentication and multiple workspaces. Next.js, TypeScript, PostgreSQL, Prisma.
+- **[Seveste](https://github.com/natajuniorpinheirodasilva-ui/Seveste)** ([live](https://seveste-two.vercel.app/)): academic clothing donation platform, built in a team of two. I built the frontend (Next.js, TypeScript) and a classmate built the backend in Go.
 - **[Bizly](https://github.com/natajuniorpinheirodasilva-ui/Bizly)**: business management SaaS for service providers. Next.js on the frontend and FastAPI on the backend.
-- **[Seveste](https://github.com/natajuniorpinheirodasilva-ui/Seveste)**: academic clothing donation platform, built in a team of two. I built the frontend (Next.js, TypeScript) and a classmate built the backend in Go.
-
 <br>
 
 <!-- TECH STACK -->
