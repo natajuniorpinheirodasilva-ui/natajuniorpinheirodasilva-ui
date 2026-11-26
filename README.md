@@ -19,9 +19,9 @@
 
 <br>
 
-I'm a Software Analysis and Development student at FATEC Botucatu and a Web Development Intern at UNESP (IBB), where I build and maintain web pages with HTML and CSS, work with the OJS platform, and have built the TV panel and the rebuilt Nossa História website.
+I'm a Software Analysis and Development student at FATEC Botucatu and a Web Development Intern at UNESP (IBB), where I build and maintain web apps.
 
-On my own, I build projects to practice full-stack development with React, Next.js, TypeScript and Python, and I'm currently studying more about databases and software architecture.
+On my own, I build projects to practice full-stack development with React, Next.js, TypeScript and Go, and I'm currently studying more about databases and system design.
 
 - **[Portfolio](https://portfolio-two-topaz-26.vercel.app/)**: Take a look at my portfolio!
 
